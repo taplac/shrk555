@@ -1,0 +1,23 @@
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://singaporegp.sg/media/memory-lane/2017/01.png" group-title="Motor Sports",[COLOR yellow]---- Formula One ----[/COLOR]
+http://0.0.0.0:1234
+
+===================================================================================================================================
+#EXTINF:-1 tvg-logo="http://markettiers.com/images/logos/sky-sports-logo.png", F1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pie.buzz:83/MVUdHwXilH/NsBBL5SUyv/143912
+
+#EXTINF:-1 tvg-logo="http://www.topnotizie.com/wp-content/uploads/2018/07/e4110ea511872988418976b8cfe39dce_Sky_Sport_F1-1024x360.png", F1 HD (Eng)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://thebesthost.uk:80/Mikey/Mikey/84826
+
+#EXTINF:-1 tvg-logo="https://files.whooshkaa.com/podcasts/podcast_1679/podcast_media/193f7d-motorsports-podcast.png",USA: FOX MOTOSPORT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pie.buzz:83/MVUdHwXilH/NsBBL5SUyv/143895
+
+#EXTINF:-1 tvg-logo="http://www.motorlunews.com/wp-content/uploads/2014/08/motogp.png",Moto GP SD
+http://visualdroid.ddns.net:8000/albertorodrigo91@gmail.com/E7Z2VLzjOM/13586
+
+#EXTINF:-1 tvg-logo="http://www.motorlunews.com/wp-content/uploads/2014/08/motogp.png",Moto GP HD
+http://visualdroid.ddns.net:8000/albertorodrigo91@gmail.com/E7Z2VLzjOM/826
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/69Ux403.png",Movistar F1 SD
+http://live.superteve.com:33527/live/jaimepanama/URjpkjr6fB/530.m3u8
